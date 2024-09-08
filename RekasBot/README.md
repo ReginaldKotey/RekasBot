@@ -1,7 +1,7 @@
 # RekasBot Interface Code Overview
 
 This README provides an overview of the key components of the RekasBot interface code, which uses p5.js and ml5.js for interactive control through hand gestures.
-<img src="../RekasBotAsset/Interface.png" alt="interface" width="1000">
+<img src=".../RekasBotAsset/Interface.png" alt="interface" width="1000">
 ## Key Components
 
 ### 1. `intro.js`
