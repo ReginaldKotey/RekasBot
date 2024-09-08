@@ -29,7 +29,7 @@ With the help of **hand gestures**, you can seamlessly control RekasBot’s move
 The journey of creating RekasBot from scratch:
 
 <video width="320" height="240" controls>
-  <source src="path-to-video-1" type="video/mp4">
+  <source src="./RekasBotAssets/Build.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
