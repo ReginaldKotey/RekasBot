@@ -49,10 +49,7 @@ Here's a look at RekasBot in its final form:
 
 Watch as I put RekasBot through a series of tests to ensure it works perfectly:
 
-<video width="320" height="240" controls>
-  <source src="path-to-video-2" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="./RekasBotAssets/Testing.gif" alt="Testing RekasBot">
 
 ---
 
@@ -60,10 +57,7 @@ Watch as I put RekasBot through a series of tests to ensure it works perfectly:
 
 See how users interact with RekasBot using hand gestures to control its movements:
 
-<video width="320" height="240" controls>
-  <source src="path-to-video-3" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="./RekasBotAssets/UserExperience.gif" alt="Interaction with RekasBot">
 
 ---
 
