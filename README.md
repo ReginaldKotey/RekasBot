@@ -36,11 +36,11 @@ The journey of creating RekasBot from scratch:
 
 Here's a look at RekasBot in its final form:
 
-<div style={display:flex; }>
+<div style={display:flex;}>
   <img src="./RekasBotAssets/FrontView.jpg" alt="RekasBot Front View" width="500">
   <img src="./RekasBotAssets/BottomView.jpg" alt="RekasBot Bottom View" width="500">
 </div>
-<img src="./RekasBotAssets/SideView.jpg" alt="RekasBot Side View" width="500">
+<img src="./RekasBotAssets/SideView.jpg" alt="RekasBot Side View" width="1000">
 
 
 ---
