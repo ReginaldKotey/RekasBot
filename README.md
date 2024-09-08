@@ -28,7 +28,7 @@ With the help of **hand gestures**, you can seamlessly control RekasBot’s move
 
 The journey of creating RekasBot from scratch:
 
-<img src="./RekasBotAssets/Build.gif" alt="Building RekasBot" width="320" height="240">
+<img src="./RekasBotAssets/Build.gif" alt="Building RekasBot">
 
 ---
 
