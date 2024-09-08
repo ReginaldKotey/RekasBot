@@ -39,9 +39,9 @@ The journey of creating RekasBot from scratch:
 
 Here's a look at RekasBot in its final form:
 
-<img src="path-to-image-1" alt="RekasBot Front View" width="500">
-<img src="path-to-image-2" alt="RekasBot Side View" width="500">
-<img src="path-to-image-3" alt="Gesture Control Interface" width="500">
+<img src="./RekasBotAssets/FrontView.jpg" alt="RekasBot Front View" width="500">
+<img src="./RekasBotAssets/FrontView.jpg" alt="RekasBot Side View" width="500">
+<img src="./RekasBotAssets/FrontView.jpg" alt="RekasBot Bottom View" width="500">
 
 ---
 
